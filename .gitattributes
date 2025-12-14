@@ -1,0 +1,2 @@
+## Ensure hooks use LF endings to avoid CR carriage issues
+.githooks/* text eol=lf
